@@ -1,4 +1,4 @@
-package org.example.pattern.observer;
+package org.example.pattern.observer.or.listener;
 
 import java.util.List;
 

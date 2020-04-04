@@ -1,4 +1,4 @@
-package org.example.pattern.observer;
+package org.example.pattern.observer.or.listener;
 
 public class NewsFollower implements Follower {
     private String name;

@@ -1,8 +1,5 @@
 package org.example.pattern.decorator.or.wrapper
 
-import org.example.pattern.observer.Follower
-import org.example.pattern.observer.NewsFollower
-import org.example.pattern.observer.NewsMaker
 import spock.lang.Specification
 
 class DecoratorTest extends Specification {

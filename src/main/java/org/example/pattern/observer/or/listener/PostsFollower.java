@@ -1,4 +1,4 @@
-package org.example.pattern.observer;
+package org.example.pattern.observer.or.listener;
 
 public class PostsFollower implements Follower {
     private PostsMaker postsMaker;
